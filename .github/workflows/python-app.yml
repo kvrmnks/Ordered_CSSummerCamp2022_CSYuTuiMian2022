@@ -7,9 +7,9 @@ on:
   schedule:
     - cron: '0 * * * *'
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 permissions:
   contents: read
@@ -40,6 +40,7 @@ jobs:
         mkdir ./abab/.github/workflows
         mv ./README.md ./abab/README.md
         mv ./.github/workflows/python-app.yml ./abab/.github/workflows/python-app.yml
+        mv ./run.py ./abab/run.py
     - name: Deploy
       uses: s0/git-publish-subdir-action@develop
       env:
