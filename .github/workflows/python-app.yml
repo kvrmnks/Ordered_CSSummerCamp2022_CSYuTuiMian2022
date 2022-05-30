@@ -12,8 +12,7 @@ on:
   #   branches: [ main ]
 
 permissions:
-  contents: write
-  actions: write
+  contents: read
 
 jobs:
   build:
@@ -48,4 +47,4 @@ jobs:
         REPO: self
         BRANCH: main
         FOLDER: abab
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.abab }}
