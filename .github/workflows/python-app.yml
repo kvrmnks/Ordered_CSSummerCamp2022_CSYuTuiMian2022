@@ -47,4 +47,4 @@ jobs:
         REPO: self
         BRANCH: main
         FOLDER: abab
-        GITHUB_TOKEN: ${{ secrets.abab }}
+        GITHUB_TOKEN: ${{ secrets.ABAB }}
