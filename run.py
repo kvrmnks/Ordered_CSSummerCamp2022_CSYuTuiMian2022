@@ -1,12 +1,31 @@
 import os
 import re
 import datetime
+
+def preprocess(contents):
+    current_university = ""
+    processed_content = []
+    for strip in contents:
+        strip: str
+        if strip.startswith("# "):
+            current_university = strip[2:-1]
+        ind = strip.find("】")
+        if ind != -1:
+            strip = strip[:ind+1] + f"[{current_university}] " + strip[ind+1:]
+        
+        processed_content.append(strip)
+    
+    return processed_content
+
 if __name__ == '__main__':
     #os.system("git pull https://github.com/LinghaoChan/CSSummerCamp2022.git")
     file = open('./CSSummerCamp2022/README.md', encoding='UTF-8')
     contents = file.readlines()
     file.close()
-    #print(contents)
+    # print(contents)
+
+    contents = preprocess(contents)
+
     useful_contents = []
     p1 = re.compile(r"【报名截止: \w+\.\w+\.\w+】")
     p2 = re.compile(r"【报名截止：\w+\.\w+\.\w+】")
