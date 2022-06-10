@@ -1,10 +1,12 @@
-【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
+~~【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)~~
 
-【报名截止: 2022.6.10】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
+~~【报名截止: 2022.6.10】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)~~
 
-【报名截止: 2022.6.10】[中国人民大学高瓴人工智能学院](https://mp.weixin.qq.com/s/xGEd_mRczxnNNVVa0LRPxQ)
+~~【报名截止: 2022.6.10】[中国人民大学高瓴人工智能学院](https://mp.weixin.qq.com/s/xGEd_mRczxnNNVVa0LRPxQ)~~
 
-【报名截止：2022.6.10】[四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)
+~~【报名截止：2022.6.10】[四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)~~
+
+~~【报名截止：2022.6.10】[中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)~~
 
 【报名截止：2022.6.12】[华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051120179966143823)
 
@@ -129,7 +131,7 @@
 
 ~~【报名截止：2022.5.19】[清华大学交叉信息研究院2022年优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2022/)~~
 
-~~【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)~~
+~~【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/xwgg/xygg/6d7d1c548f4c45919f0e30b2ce78a9d7.htm)~~
 
 ~~【报名截止：2022.5.31】[复旦大学计算机科学技术学院2022年全国优秀大学生夏令营](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)~~
 
