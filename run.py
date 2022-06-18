@@ -27,40 +27,45 @@ if __name__ == '__main__':
     contents = preprocess(contents)
 
     useful_contents = []
-    p1 = re.compile(r"【报名截止: \w+\.\w+\.\w+】")
-    p2 = re.compile(r"【报名截止：\w+\.\w+\.\w+】")
+    no_date_contents = []
+    undecidable_contents = []
+    p1 = re.compile(r"【报名截止[^】]*】")
     pt = re.compile(r"\w+\.\w+\.\w+")
+
     for x in contents:
         r1 = re.findall(p1, x)
-        r2 = re.findall(p2, x)
-        ti=""
+        # print(r1)
         if len(r1) != 0:
-          #  print(r1)
-            ti = re.findall(pt, r1[0])[0]
-        elif len(r2) != 0:
-         #   print(r2)
-            ti = re.findall(pt, r2[0])[0]
+            ti = re.findall(pt, r1[0])
+            if len(ti) == 0:
+                print(x)
+                no_date_contents.append(x)
+            else:
+                ti = ti[0]
+                ti = ti.split('.')
+                ti = [int(x) for x in ti]
+                ti = datetime.datetime(ti[0],ti[1],ti[2])
+                useful_contents.append((x,ti))
         else:
-            continue
-        #print(ti)
-        #print(ti.split('.'))
-        ti = ti.split('.')
-        ti = [int(x) for x in ti]
-       # print(ti)
-        ti = datetime.datetime(ti[0],ti[1],ti[2])
-       # print(ti)
-        useful_contents.append((x,ti))
-    useful_contents = sorted(useful_contents, key=lambda x:x[1])
-    # print(useful_contents)
-    td = datetime.date.today()
-    td = datetime.datetime(td.year,td.month,td.day)
-    # print(td)
-    due_contents = [x for x in useful_contents if not x[1] < td]
-    overdue_contents = [x for x in useful_contents if x[1] < td]
+            undecidable_contents.append(x)
+        useful_contents = sorted(useful_contents, key=lambda x:x[1])
+        td = datetime.date.today()
+        td = datetime.datetime(td.year,td.month,td.day)
+        due_contents = [x for x in useful_contents if not x[1] < td]
+        overdue_contents = [x for x in useful_contents if x[1] < td]
     file = open('./README.md','w',encoding='UTF-8')
+    file.write('### 尚未截止\n')
     for x in due_contents:
         file.write(x[0]+'\n')
-    file.write('### Overdued\n')
+    file.write('### 截止具体时间未定\n')
+    for x in no_date_contents:
+        file.write(x+'\n')
+    file.write('### 已截止\n')
     for x in overdue_contents:
         file.write(x[0]+'\n')
+    file.close()
+    
+    file = open('./XOR.md','w',encoding='UTF-8')
+    for x in undecidable_contents:
+        file.write(x+'\n')
     file.close()

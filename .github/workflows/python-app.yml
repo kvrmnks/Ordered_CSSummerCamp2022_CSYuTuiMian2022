@@ -39,6 +39,7 @@ jobs:
         mkdir ./abab/.github
         mkdir ./abab/.github/workflows
         mv ./README.md ./abab/README.md
+        mv ./XOR.md ./abab/XOR.md
         mv ./.github/workflows/python-app.yml ./abab/.github/workflows/python-app.yml
         mv ./run.py ./abab/run.py
     - name: Deploy
