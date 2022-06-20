@@ -91,6 +91,8 @@
 
 【报名截止: 2022.6.30】[中国科学院大学] [中国科学院自动化研究所2022年“人工智能”大学生暑期学校招生通知](https://mp.weixin.qq.com/s/DBzm8hKXGIavwMq7st44Vw)
 
+【报名截止: 2022.6.30】[中国科学院大学] [中国科学院大学2022年全国大学生“网络与计算”夏令营通知----中国科学院计算机网络信息中心](http://cnic.cas.cn/rcjy/xly/202205/t20220526_6454038.html)
+
 【报名截止: 2022.6.30】[天津大学] [天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
 
 【报名截止：2022.6.30】[电子科技大学] [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
