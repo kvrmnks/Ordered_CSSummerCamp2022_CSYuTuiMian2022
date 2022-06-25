@@ -1,18 +1,4 @@
 ### 尚未截止
-【报名截止：2022.6.24】[北京大学] [北京大学软件与微电子学院2022年全国优秀大学生夏令营通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
-
-【报名截止：2022.6.24】[南开大学] [【夏令营】关于举办2022年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
-
-【报名截止：2022.6.24】[哈尔滨工业大学] [哈工大（威海）“英才计划”夏令营暨优秀硕士生源选拔活动](http://yjsc.hitwh.edu.cn/2022/0613/c2134a156957/page.htm)
-
-【报名截止：2022.6.24】[东北大学] [东北大学计算机科学与工程学院2022年优秀大学生学术夏令营活动](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650199430&idx=1&sn=4de51ae7f600cdc7bc5ac31ce25888fa&chksm=8f7a1186b80d9890c410b785e35602072297b1a13f98cad85794694b1dbb1384244444690085&mpshare=1&scene=23&srcid=06149fIdKHBxBcjJ9nNj8h30&sharer_sharetime=1655214359140&sharer_shareid=52095cdf584685215881244b250b339c#rd)
-
-【报名截止：2022.6.24】[华中师范大学] [华中师范大学计算机学院2022年优秀大学生暑期夏令营活动通知](http://cs.ccnu.edu.cn/info/1115/2369.htm)
-
-【报名截止：2022.6.24】[北京交通大学] [2022年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营通知](http://scit.bjtu.edu.cn/cms/item/5000.html)
-
-【报名截止：2022.6.24】[北京邮电大学] [北京邮电大学2022年全国优秀大学生暑期夏令营通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_568)
-
 【报名截止: 2022.6.25】[中国科学院大学] [2022年SIAT优秀大学生学术夏令营招生简章----中国科学院深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202205/t20220524_6453480.html)
 
 【报名截止：2022.6.25】[中国农业大学] [中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)
@@ -212,4 +198,18 @@
 【报名截止：2022.6.22】[南京邮电大学] [南京邮电大学物联网学院关于举办2022年全国优秀大学生暑期夏令营的通知](https://ciot.njupt.edu.cn/2022/0602/c10653a222327/page.htm)
 
 【报名截止：2022.6.23】[清华大学] [清华大学深圳国际研究生院2022年数据科学和信息技术专业/清华-伯克利深圳学院优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2022/0531/c120a54040/page.htm)
+
+【报名截止：2022.6.24】[北京大学] [北京大学软件与微电子学院2022年全国优秀大学生夏令营通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
+
+【报名截止：2022.6.24】[南开大学] [【夏令营】关于举办2022年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
+
+【报名截止：2022.6.24】[哈尔滨工业大学] [哈工大（威海）“英才计划”夏令营暨优秀硕士生源选拔活动](http://yjsc.hitwh.edu.cn/2022/0613/c2134a156957/page.htm)
+
+【报名截止：2022.6.24】[东北大学] [东北大学计算机科学与工程学院2022年优秀大学生学术夏令营活动](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650199430&idx=1&sn=4de51ae7f600cdc7bc5ac31ce25888fa&chksm=8f7a1186b80d9890c410b785e35602072297b1a13f98cad85794694b1dbb1384244444690085&mpshare=1&scene=23&srcid=06149fIdKHBxBcjJ9nNj8h30&sharer_sharetime=1655214359140&sharer_shareid=52095cdf584685215881244b250b339c#rd)
+
+【报名截止：2022.6.24】[华中师范大学] [华中师范大学计算机学院2022年优秀大学生暑期夏令营活动通知](http://cs.ccnu.edu.cn/info/1115/2369.htm)
+
+【报名截止：2022.6.24】[北京交通大学] [2022年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营通知](http://scit.bjtu.edu.cn/cms/item/5000.html)
+
+【报名截止：2022.6.24】[北京邮电大学] [北京邮电大学2022年全国优秀大学生暑期夏令营通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_568)
 
