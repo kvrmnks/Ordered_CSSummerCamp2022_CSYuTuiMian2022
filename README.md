@@ -1,16 +1,4 @@
 ### 尚未截止
-【报名截止：2022.6.27】[上海交通大学] [上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
-
-【报名截止：2022.6.27】[南开大学] [【夏令营】关于举办2022年南开大学人工智能学院优秀大学生云端夏令营的通知](https://ai.nankai.edu.cn/info/1024/4968.htm)
-
-【报名截止：2022.6.27】[山东大学] [山东大学机电与信息工程学院2022年全国优秀大学生暑期夏令营招生简章](https://ie.wh.sdu.edu.cn/info/1262/8403.htm)
-
-【报名截止：2022.6.27】[华南理工大学] [华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
-
-【报名截止：2022.6.27】[华南理工大学] [华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)
-
-【报名截止：2022.6.27】[华南理工大学] [华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
-
 【报名截止：2022.6.28】[北京航空航天大学] [北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
 
 【报名截止：2022.6.30】[北京大学] [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
@@ -212,4 +200,16 @@
 ~~【报名截止：2022.6.26】[山东大学] [关于举办“山东大学软件学院2022年全国优秀大学生暑期夏令营”活动的通知](https://www.sc.sdu.edu.cn/info/1019/3346.htm)~~
 
 ~~【报名截止：2022.6.26】[湖南大学] [湖南大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11982.htm)~~
+
+【报名截止：2022.6.27】[上海交通大学] [上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
+
+【报名截止：2022.6.27】[南开大学] [【夏令营】关于举办2022年南开大学人工智能学院优秀大学生云端夏令营的通知](https://ai.nankai.edu.cn/info/1024/4968.htm)
+
+【报名截止：2022.6.27】[山东大学] [山东大学机电与信息工程学院2022年全国优秀大学生暑期夏令营招生简章](https://ie.wh.sdu.edu.cn/info/1262/8403.htm)
+
+【报名截止：2022.6.27】[华南理工大学] [华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+
+【报名截止：2022.6.27】[华南理工大学] [华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)
+
+【报名截止：2022.6.27】[华南理工大学] [华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
 
