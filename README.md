@@ -1,28 +1,4 @@
 ### 尚未截止
-【报名截止：2022.6.30】[北京大学] [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
-
-【报名截止：2022.6.30】[中国科学技术大学] [中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
-
-【报名截止: 2022.6.30】[中国科学院大学] [中国科学院自动化研究所2022年“人工智能”大学生暑期学校招生通知](https://mp.weixin.qq.com/s/DBzm8hKXGIavwMq7st44Vw)
-
-【报名截止: 2022.6.30】[中国科学院大学] [中国科学院大学2022年全国大学生“网络与计算”夏令营通知----中国科学院计算机网络信息中心](http://cnic.cas.cn/rcjy/xly/202205/t20220526_6454038.html)
-
-【报名截止: 2022.6.30】[天津大学] [天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
-
-【报名截止：2022.6.30】[电子科技大学] [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
-
-【报名截止：2022.6.30】[哈尔滨工业大学] [哈尔滨工业大学（深圳）计算机科学与技术学院关于2023年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/5877.htm)
-
-【报名截止：2022.6.30】[华中科技大学] [华中科技大学人工智能与自动化学院2022年学术夏令营活动通知](http://aia.hust.edu.cn/info/1177/7727.htm)
-
-【报名截止：2022.6.30】[西北工业大学] [西北工业大学计算机学院2022 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/10502.htm)
-
-【报名截止：2022.6.30】[西北工业大学] [网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://wlkjaqxy.nwpu.edu.cn/info/1044/2707.htm)
-
-【报名截止：2022.6.30】[西北工业大学] [西北工业大学软件学院2022年全国优秀大学生暑期夏令营招生简章](https://ruanjian.nwpu.edu.cn/info/1054/4539.htm)
-
-【报名截止：2022.6.30】[北京理工大学] [2022年北京理工大学计算机学院暑期夏令营通知](https://cs.bit.edu.cn/tzgg/2ae26b14f88742b392f3a7760857441e.htm)
-
 【报名截止：2022.7.1】[浙江大学] [浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)
 
 【报名截止：2022.7.1】[南京邮电大学] [南京邮电大学自动化学院、人工智能学院关于举办2022年全国优秀大学生暑期夏令营的通知（线上）](http://coa.njupt.edu.cn/2022/0610/c2277a222705/page.htm)
@@ -212,4 +188,28 @@
 ~~【报名截止：2022.6.27】[华南理工大学] [华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)~~
 
 ~~【报名截止：2022.6.28】[北京航空航天大学] [北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)~~
+
+【报名截止：2022.6.30】[北京大学] [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
+
+【报名截止：2022.6.30】[中国科学技术大学] [中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
+
+【报名截止: 2022.6.30】[中国科学院大学] [中国科学院自动化研究所2022年“人工智能”大学生暑期学校招生通知](https://mp.weixin.qq.com/s/DBzm8hKXGIavwMq7st44Vw)
+
+【报名截止: 2022.6.30】[中国科学院大学] [中国科学院大学2022年全国大学生“网络与计算”夏令营通知----中国科学院计算机网络信息中心](http://cnic.cas.cn/rcjy/xly/202205/t20220526_6454038.html)
+
+【报名截止: 2022.6.30】[天津大学] [天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
+
+【报名截止：2022.6.30】[电子科技大学] [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
+
+【报名截止：2022.6.30】[哈尔滨工业大学] [哈尔滨工业大学（深圳）计算机科学与技术学院关于2023年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/5877.htm)
+
+【报名截止：2022.6.30】[华中科技大学] [华中科技大学人工智能与自动化学院2022年学术夏令营活动通知](http://aia.hust.edu.cn/info/1177/7727.htm)
+
+【报名截止：2022.6.30】[西北工业大学] [西北工业大学计算机学院2022 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/10502.htm)
+
+【报名截止：2022.6.30】[西北工业大学] [网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://wlkjaqxy.nwpu.edu.cn/info/1044/2707.htm)
+
+【报名截止：2022.6.30】[西北工业大学] [西北工业大学软件学院2022年全国优秀大学生暑期夏令营招生简章](https://ruanjian.nwpu.edu.cn/info/1054/4539.htm)
+
+【报名截止：2022.6.30】[北京理工大学] [2022年北京理工大学计算机学院暑期夏令营通知](https://cs.bit.edu.cn/tzgg/2ae26b14f88742b392f3a7760857441e.htm)
 
