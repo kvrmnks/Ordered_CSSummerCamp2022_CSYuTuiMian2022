@@ -43,7 +43,8 @@ jobs:
         mkdir ./abab/.github
         mkdir ./abab/.github/workflows
         mv ./README.md ./abab/README.md
-        mv ./XOR.md ./abab/XOR.md
+        mv ./CSSummerCamp2022_XOR.md ./abab/CSSummerCamp2022_XOR.md
+        mv ./CSYuTuiMian2022_XOR.md ./abab/CSYuTuiMian2022_XOR.md
         mv ./.github/workflows/python-app.yml ./abab/.github/workflows/python-app.yml
         mv ./run.py ./abab/run.py
     - name: Deploy
