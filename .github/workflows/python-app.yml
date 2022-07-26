@@ -36,6 +36,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         git clone https://github.com/LinghaoChan/CSSummerCamp2022.git
+        git clone https://github.com/CS-BAOYAN/CSYuTuiMian2022.git
         python ./run.py
         cat ./README.md
         mkdir abab
