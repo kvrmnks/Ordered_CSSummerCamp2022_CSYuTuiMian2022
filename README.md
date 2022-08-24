@@ -1,7 +1,5 @@
 数据来源: [CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)     [CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022) 
 ### 尚未截止
-[预推免]【报名截止：2022.8.24】[哈尔滨工业大学] [哈尔滨工业大学（深圳）计算机科学与技术学院2023年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/6192.htm)
-
 [预推免]【报名截止：2022.8.31】[清华大学] [清华大学2023年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/eda04b74-d885-4019-9aa9-7e86a6aee19d)
 
 [预推免]【报名截止：2022.9.11】[中国科学院（大学）] [中国科学院计算机网络信息中心2023年推荐免试生（含直博生）招生简章](http://cnic.cas.cn/zszp/202208/t20220822_6502607.html)
@@ -253,4 +251,6 @@
 [预推免]【报名截止：2022.8.21/9.21前分批完成审核】[哈尔滨工业大学] [哈尔滨工业大学计算学部2023年推免生（含直博生）接收工作细则](http://computing.hit.edu.cn/2022/0719/c11271a279171/page.htm)
 
 [预推免]【报名截止：2022.8.22/2022.9.12】[上海交通大学] [上海交大密西根学院工学类专业2023年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/recommended-master-doctor-zh/2022-08-05/132751/)
+
+[预推免]【报名截止：2022.8.24】[哈尔滨工业大学] [哈尔滨工业大学（深圳）计算机科学与技术学院2023年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/6192.htm)
 
