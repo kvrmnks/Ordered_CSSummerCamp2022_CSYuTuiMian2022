@@ -1,7 +1,5 @@
 数据来源: [CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)     [CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022) 
 ### 尚未截止
-[预推免]【报名截止：2022.8.31】[清华大学] [清华大学2023年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/eda04b74-d885-4019-9aa9-7e86a6aee19d)
-
 [预推免]【报名截止：2022.9.1】[中国科学院（大学）] [中国科学院自动化研究所2023年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202208/t20220802_6496096.html)
 
 [预推免]【报名截止：2022.9.10】[中国科学院（大学）] [中国科学院成都计算机应用研究所2023年接收硕士推荐免试研究生方法](http://www.casit.ac.cn/news/tongzhi/202208/16231.html)
@@ -283,4 +281,6 @@
 [预推免]~~【报名截止：2022.8.24】[哈尔滨工业大学] [哈尔滨工业大学（深圳）计算机科学与技术学院2023年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/6192.htm)~~
 
 [预推免]~~【报名截止：2022.8.29】[北京科技大学] [北京科技大学计算机与通信工程学院2023年接收推荐免试硕士研究生（含直博生）预报名（第二批次）的通知](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2022-08-22/1919.html)~~
+
+[预推免]【报名截止：2022.8.31】[清华大学] [清华大学2023年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/eda04b74-d885-4019-9aa9-7e86a6aee19d)
 
