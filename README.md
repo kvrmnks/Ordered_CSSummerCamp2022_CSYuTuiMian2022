@@ -1,7 +1,5 @@
 数据来源: [CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)     [CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022) 
 ### 尚未截止
-[预推免]【报名截止：2022.9.14（电子信息与电气工程学部-CS） 2022.9.23（软件学院)】[大连理工大学] [关于开通大连理工大学2023年接收推荐免试研究生预报名系统的通知](https://gs.dlut.edu.cn/info/1156/12837.htm)
-
 [预推免]【报名截止：2022.9.15】[北京大学] [北京大学软件与微电子学院2023年接收推荐免试 硕士研究生 ](http://ss.pku.edu.cn/index.php/admission/admnotice/4364)/[ 博士研究生 招生说明](http://ss.pku.edu.cn/index.php/admission/admnotice/4365)
 
 [预推免]【报名截止：2022.9.15】[中国科学院（大学）] [中国科学院计算技术研究所接收2023年推荐免试研究生简章](http://ict.cas.cn/xwgg/tzgg/202209/t20220909_6511200.html)
@@ -327,4 +325,6 @@
 [预推免]~~【报名截止：2022.9.13】[上海交通大学] [电院2023级推荐免试直升研究生招生通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34865.htm)~~
 
 [预推免]~~【报名截止：2022.9.13】[中国海洋大学] [中国海洋大学2023年接收推荐免试研究生的通知](http://yz.ouc.edu.cn/2022/0823/c5926a375920/page.htm)~~
+
+[预推免]【报名截止：2022.9.14（电子信息与电气工程学部-CS） 2022.9.23（软件学院)】[大连理工大学] [关于开通大连理工大学2023年接收推荐免试研究生预报名系统的通知](https://gs.dlut.edu.cn/info/1156/12837.htm)
 
