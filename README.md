@@ -1,7 +1,5 @@
 数据来源: [CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)     [CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022) 
 ### 尚未截止
-[预推免]【报名截止：2022.9.30】[中国科学院（大学）] [中国科学院上海高等研究院招收2023年推荐免试研究生公告](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202208/t20220819_6502019.html)
-
 [预推免]【报名截止：2022.10.20】[华南理工大学] [华南理工大学接收2023年推荐免试研究生预报名通知](https://yz.scut.edu.cn/2022/0826/c30674a477837/page.htm)
 
 ### 截止具体时间特殊
@@ -351,4 +349,6 @@
 [夏令营]~~【报名截止：2022.9.25】[西安电子科技大学] [西安电子科技大学网络与信息安全学院2023年研究生招生学术夏令营暨预推免报名](https://ce.xidian.edu.cn/info/1324/8773.htm)~~
 
 [预推免]~~【报名截止：2022.9.25】[西安电子科技大学] [西安电子科技大学网络与信息安全学院关于2023年推荐免试研究生招生预报名的通知](https://ce.xidian.edu.cn/info/1324/8773.htm)~~
+
+[预推免]【报名截止：2022.9.30】[中国科学院（大学）] [中国科学院上海高等研究院招收2023年推荐免试研究生公告](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202208/t20220819_6502019.html)
 
